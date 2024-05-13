@@ -4,6 +4,8 @@
 
  - sonho de ser astronomô 🔭
  - amo café ☕
+ - filosofia 📖
+ - 
 
  - estou estudando na alura 😄
  - Estou deselvovendo linguagem javaScript
