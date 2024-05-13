@@ -1,16 +1,17 @@
-### Hi there 👋
+ ### boas vindas ao meu perfil 🛰️
 
-<!--
-**matheusvendedodiovo/matheusvendedodiovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me chamo Matheus 🪐
 
-Here are some ideas to get you started:
+ - sonho de ser astronomô 🔭
+ - amo café ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - estou estudando na alura 😄
+ - Estou deselvovendo linguagem javaScript
+ - utilizo esse espaço para minha organizaçao e compatilhando projetos desenvovidos
+ - 
+
+ - ### você pode entrar em contato comigo 📧
+ - matheusalmeia5@gmail.com
+ - @maatheus__almeida
+
+![](https://media1.tenor.com/m/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
