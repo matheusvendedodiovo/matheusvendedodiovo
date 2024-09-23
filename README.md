@@ -2,15 +2,15 @@
 
  Me chamo Matheus 🪐
 
- - sonho de ser astronomô 🔭
+ - astrnomia 🔭
  - amo café ☕
  - filosofia 📖
-  
+ - amo o lebron james 🏀
 
  - estou estudando na alura 😄
  - Estou deselvovendo linguagem javaScript
  - utilizo esse espaço para minha organizaçao e compatilhando projetos desenvovidos
- - 
+   
 
  - ### você pode entrar em contato comigo 📧
  - matheusalmeia5@gmail.com
